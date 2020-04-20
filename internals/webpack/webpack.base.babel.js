@@ -12,7 +12,7 @@ module.exports = options => ({
     {
       // Compile into js/build.js
       path: path.resolve(process.cwd(), 'build'),
-      publicPath: '/',
+      publicPath: '/react-boilerplate-github-pages/',
     },
     options.output,
   ), // Merge with env dependent settings
