@@ -3,7 +3,7 @@ var __wpo = {
     "main": [
       "/react-boilerplate-github-pages/favicon.ico",
       "/react-boilerplate-github-pages/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
-      "/react-boilerplate-github-pages/runtime.e4714ac9acb9b2b05b2c.js",
+      "/react-boilerplate-github-pages/runtime.0ef28a83f161528e9afa.js",
       "/react-boilerplate-github-pages/"
     ],
     "additional": [
@@ -46,16 +46,16 @@ var __wpo = {
     "0cbfd34aad72690fd76248e758eb974574732dc9": "/react-boilerplate-github-pages/npm.react-redux.32275a9471645b5c4fc1.chunk.js",
     "9e5c7739c35f3cdd6df7b8f1ec0fa3c721228ea3": "/react-boilerplate-github-pages/npm.react-router.837437a3496faf50f2b2.chunk.js",
     "4c36fd49ae77a0e41de9fbe5433699c055ae77ec": "/react-boilerplate-github-pages/npm.react-router-dom.36ef871c56f5be07872f.chunk.js",
-    "d8bf3ab10a7adefdfa08b75520a74af1e7127c4b": "/react-boilerplate-github-pages/runtime.e4714ac9acb9b2b05b2c.js",
+    "fd205ace9898fdf09290cc64ee771dcdb3f97448": "/react-boilerplate-github-pages/runtime.0ef28a83f161528e9afa.js",
     "7809672eb0035819806ecc35d450db7f6ed4e9db": "/react-boilerplate-github-pages/15.63dc6e706312491774ff.chunk.js",
     "c84539bc29aceb9aff2f1d513a09fb4e8d72db2c": "/react-boilerplate-github-pages/16.f7da5ddedfa582133045.chunk.js",
     "17425a569854f13a4a336e07d90f57b8f989daf5": "/react-boilerplate-github-pages/17.050dd15ae5141dcb56fe.chunk.js",
     "1dee67f1c16ef55a66548aae426a4a91b5a3ce61": "/react-boilerplate-github-pages/18.b7493a252e5054a14a3c.chunk.js",
-    "836912abf33abe08d19e98c21431ba0cd1d55ccd": "/react-boilerplate-github-pages/"
+    "c7513507caa886c04303b5c091b7b92f6af5591c": "/react-boilerplate-github-pages/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "4/20/2020, 6:33:33 PM",
+  "version": "4/20/2020, 6:39:55 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -140,7 +140,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/react-boilerplate-github-pages/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
