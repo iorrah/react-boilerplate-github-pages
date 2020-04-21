@@ -11,7 +11,7 @@ var __wpo = {
       "/react-boilerplate-github-pages/npm.redux-saga.c2dcc97d94d690026a8d.chunk.js",
       "/react-boilerplate-github-pages/npm.webpack.9e56360a500dbf4fc704.chunk.js",
       "/react-boilerplate-github-pages/3.7525977cb98c4c79d020.chunk.js",
-      "/react-boilerplate-github-pages/main.108828a4ff25f104320c.chunk.js",
+      "/react-boilerplate-github-pages/main.b8dbde77104969c0e936.chunk.js",
       "/react-boilerplate-github-pages/npm.babel.5b4af551a71d021be59e.chunk.js",
       "/react-boilerplate-github-pages/npm.connected-react-router.5e775e0a549b0d4c0bec.chunk.js",
       "/react-boilerplate-github-pages/npm.core-js.f2526b90a1b08370b85d.chunk.js",
@@ -36,7 +36,7 @@ var __wpo = {
     "52013361977eb200baa1b175c7efde133498ea95": "/react-boilerplate-github-pages/npm.redux-saga.c2dcc97d94d690026a8d.chunk.js",
     "a32b8c4d069544d3731ecbfedfcdba7bb465e691": "/react-boilerplate-github-pages/npm.webpack.9e56360a500dbf4fc704.chunk.js",
     "c678f84c8e22d3a8d87132cf3d7ffb2df226da04": "/react-boilerplate-github-pages/3.7525977cb98c4c79d020.chunk.js",
-    "d32bac48058da6c0fe74dce54db4ae9cc33500ef": "/react-boilerplate-github-pages/main.108828a4ff25f104320c.chunk.js",
+    "fbcb42159a8474d4a01abf5afe024066c3b6b930": "/react-boilerplate-github-pages/main.b8dbde77104969c0e936.chunk.js",
     "d7c0a38979bfc5728a6d6300fc7afe2c0416ce94": "/react-boilerplate-github-pages/npm.babel.5b4af551a71d021be59e.chunk.js",
     "072b973d1e2cf97cea1576cf4df644fbf9b449fc": "/react-boilerplate-github-pages/npm.connected-react-router.5e775e0a549b0d4c0bec.chunk.js",
     "fd399f080bb167c6ea2cb78933536143cf973c09": "/react-boilerplate-github-pages/npm.core-js.f2526b90a1b08370b85d.chunk.js",
@@ -51,11 +51,11 @@ var __wpo = {
     "c84539bc29aceb9aff2f1d513a09fb4e8d72db2c": "/react-boilerplate-github-pages/16.f7da5ddedfa582133045.chunk.js",
     "17425a569854f13a4a336e07d90f57b8f989daf5": "/react-boilerplate-github-pages/17.050dd15ae5141dcb56fe.chunk.js",
     "1dee67f1c16ef55a66548aae426a4a91b5a3ce61": "/react-boilerplate-github-pages/18.b7493a252e5054a14a3c.chunk.js",
-    "c68df637c78f5ab399e3ac33ad039ab8a9808353": "/react-boilerplate-github-pages/"
+    "8045b37d810c6ee809c130d8c5ccd18b76f0bfad": "/react-boilerplate-github-pages/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "4/21/2020, 3:59:09 PM",
+  "version": "4/21/2020, 4:01:33 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
